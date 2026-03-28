@@ -1,3 +1,14 @@
+>[!tip]
+ Prompt utilizado nesta etapa:
+
+Estou criando um agente de IA que deve analisar um orçamento e recomendar um PC, mais especificamente
+a configuração de um PC peça por peça, crie alguns arquivos .csv para usar como base de dados para esse agente,
+use apenas informações reais de tecnologias, vantagens de modelo para cada função,
+perfil do cliente(gamer, programador, editor, trabalha com datacenter etc..), custo real de cada peça.
+Utilize como fonte de preço apenas sites como: kabum, pichau, terabyte, magalu, ali-express(somando preço de impostos quando aplicável), gigantec.
+Adicione mais arquivos que ache relevantes. Crie um prompt para esse agente, use a técnica few shot trazendo exemplos de perguntas e respostas,
+coloque também as regras de como o agente deve se comportar, lembre-se que
+
 # Prompts do Agente
 
 ## System Prompt
