@@ -1,0 +1,7 @@
+id,perfil,prioridade_cpu,prioridade_gpu,prioridade_ram,prioridade_storage,descricao
+prof_001,gamer,media,alta,media,media,Foco em FPS e gráficos
+prof_002,programador,alta,baixa,alta,alta,Compilação e multitarefa
+prof_003,editor_video,alta,alta,alta,alta,Renderização e timeline pesada
+prof_004,office,baixa,baixa,media,media,Uso leve e produtividade
+prof_005,ia_dev,alta,alta,alta,alta,Machine learning e inferência
+prof_006,datacenter,alta,baixa,alta,alta,Alta disponibilidade e paralelismo
