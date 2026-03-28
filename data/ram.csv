@@ -1,0 +1,5 @@
+id,modelo,tipo,frequencia_mhz,capacidade_gb,perfil_indicado,preco_brl
+ram_001,Kingston Fury Beast DDR4,DDR4,3200,16,gamer;geral,350
+ram_002,Corsair Vengeance DDR4,DDR4,3600,32,editor;dev,700
+ram_003,Kingston DDR5 Fury,DDR5,5200,32,futuro;high_end,900
+ram_004,Crucial DDR4,DDR4,2666,8,office,150
