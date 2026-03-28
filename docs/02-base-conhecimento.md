@@ -2,14 +2,20 @@
 
 ## Dados Utilizados
 
-Descreva se usou os arquivos da pasta `data`, por exemplo:
+| Arquivo             | Formato | Utilização no Agente                                                        |
+| ------------------- | ------- | --------------------------------------------------------------------------- |
+| `cpus.csv`          | CSV     | Selecionar processadores com base em desempenho, consumo e custo-benefício  |
+| `gpus.csv`          | CSV     | Definir placa de vídeo conforme perfil (gamer, IA, edição) e orçamento      |
+| `ram.csv`           | CSV     | Escolher memória adequada (capacidade e frequência) conforme uso            |
+| `storage.csv`       | CSV     | Determinar tipo e capacidade de armazenamento (NVMe, SATA)                  |
+| `motherboards.csv`  | CSV     | Garantir compatibilidade com CPU e suporte a upgrades                       |
+| `psu.csv`           | CSV     | Dimensionar fonte com base no consumo total e margem de segurança           |
+| `cases.csv`         | CSV     | Selecionar gabinete considerando airflow e perfil do usuário                |
+| `profiles.csv`      | CSV     | Definir prioridades de hardware conforme tipo de usuário                    |
+| `build_rules.csv`   | CSV     | Aplicar regras de decisão (ex: mínimo de RAM, preferência por NVIDIA, etc.) |
+| `compatibility.csv` | CSV     | Validar compatibilidade entre CPU e placa-mãe                               |
+| `config.json`       | JSON    | Controlar pesos de decisão e regras globais do sistema                      |
 
-| Arquivo | Formato | Utilização no Agente |
-|---------|---------|---------------------|
-| `historico_atendimento.csv` | CSV | Contextualizar interações anteriores |
-| `perfil_investidor.json` | JSON | Personalizar recomendações |
-| `produtos_financeiros.json` | JSON | Sugerir produtos adequados ao perfil |
-| `transacoes.csv` | CSV | Analisar padrão de gastos do cliente |
 
 > [!TIP]
 > **Quer um dataset mais robusto?** Você pode utilizar datasets públicos do [Hugging Face](https://huggingface.co/datasets) relacionados a finanças, desde que sejam adequados ao contexto do desafio.
