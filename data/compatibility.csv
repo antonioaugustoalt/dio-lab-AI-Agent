@@ -1,0 +1,6 @@
+cpu_socket,motherboard_socket,compatibilidade
+AM4,AM4,ok
+AM5,AM5,ok
+LGA1700,LGA1700,ok
+AM4,AM5,incompativel
+LGA1700,AM4,incompativel
