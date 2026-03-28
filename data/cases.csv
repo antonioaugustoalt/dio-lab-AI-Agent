@@ -1,0 +1,5 @@
+id,modelo,airflow,perfil_indicado,preco_brl
+case_001,Pichau Kazan 2,alto,gamer,200
+case_002,NZXT H510,medio,setup_clean,500
+case_003,Corsair 4000D,alto,high_end,700
+case_004,Generic Office,baixo,basico,120
