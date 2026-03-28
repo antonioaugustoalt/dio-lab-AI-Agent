@@ -1,0 +1,8 @@
+id,condicao,acao
+rule_001,perfil=gamer e orçamento<5000,usar_gpu=RX 6600
+rule_002,perfil=gamer e orçamento>5000,usar_gpu=RTX 4060
+rule_003,perfil=editor_video,ram>=32GB
+rule_004,perfil=programador,priorizar_cpu_threads
+rule_005,perfil=ia_dev,usar_nvidia=true
+rule_006,perfil=office,evitar_gpu_dedicada=true
+rule_007,budget_baixo,priorizar_custo_beneficio=true
