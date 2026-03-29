@@ -52,7 +52,7 @@ Crie testes simples para validar seu agente:
 
 Após os testes, registre suas conclusões:
 
-### ✅ O que funcionou bem:
+### O que funcionou bem:
 - O agente montou configurações de PCs corretamente com base no perfil e orçamento  
 - As recomendações seguiram as regras definidas (ex: priorização de GPU para gamer)  
 - A compatibilidade entre CPU e placa-mãe foi mantida em todos os cenários  
@@ -61,7 +61,7 @@ Após os testes, registre suas conclusões:
 
 ---
 
-### ⚠️ O que pode melhorar:
+### O que pode melhorar:
 - O tempo de resposta ainda é relativamente alto em ambas as versões  
 - Necessidade de otimizar processamento e reduzir latência  
 - Melhorar a lógica de decisão em cenários mais complexos  
@@ -77,17 +77,17 @@ Foram testadas duas versões do sistema:
 - **Versão 1:** Estrutura básica conforme apresentada inicialmente  
 - **Versão 2:** Versão otimizada com melhorias sugeridas por IA  
 
-### 🔍 Resultados observados:
+### Resultados observados:
 - Ambas as versões apresentaram **alta assertividade nas respostas**  
 - A versão otimizada teve **melhor desempenho (menor tempo de resposta)**  
 - Mesmo assim, foi identificada **lentidão considerável**, indicando possível gargalo  
 
 ---
 
-### 🤖 Modelo utilizado:
+### Modelo utilizado:
 - `GPT-oss:20b`
 
-### 📌 Considerações:
+### Considerações:
 - O modelo apresenta boa qualidade, porém alto custo computacional  
 - Pode não ser ideal para aplicações com necessidade de resposta rápida  
 - Possíveis melhorias incluem:
@@ -97,7 +97,7 @@ Foram testadas duas versões do sistema:
 
 ---
 
-## 📊 Conclusão Geral
+## Conclusão Geral
 
 O agente demonstrou ser **funcional, consistente e confiável** na recomendação de configurações de PCs.
 
