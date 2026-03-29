@@ -36,7 +36,7 @@ Crie testes simples para validar seu agente:
   Configuração com foco em GPU (ex: RX 7600 ou RTX 4060), 16GB RAM, SSD NVMe, sem ultrapassar o orçamento
 
 - **Resultado:**  
-  [ ] Correto  [ ] Incorreto
+  [X] Correto  [ ] Incorreto
 
 ---
 
@@ -48,7 +48,7 @@ Crie testes simples para validar seu agente:
   Priorizar CPU e RAM (ex: Ryzen 7 ou similar + 32GB RAM), podendo não incluir GPU dedicada
 
 - **Resultado:**  
-  [ ] Correto  [ ] Incorreto
+  [X] Correto  [ ] Incorreto
 
 ---
 
@@ -60,7 +60,7 @@ Crie testes simples para validar seu agente:
   CPU e placa-mãe com o mesmo socket (ex: AM4 + B550), sem incompatibilidades
 
 - **Resultado:**  
-  [ ] Correto  [ ] Incorreto
+  [X] Correto  [ ] Incorreto
 
 ---
 
@@ -72,7 +72,7 @@ Crie testes simples para validar seu agente:
   O agente solicita mais informações (perfil e orçamento)
 
 - **Resultado:**  
-  [ ] Correto  [ ] Incorreto
+  [X] Correto  [ ] Incorreto
 
 ---
 
@@ -84,7 +84,7 @@ Crie testes simples para validar seu agente:
   O agente informa que só trata de montagem de PCs
 
 - **Resultado:**  
-  [ ] Correto  [ ] Incorreto
+  [X] Correto  [ ] Incorreto
 
 ---
 
