@@ -86,7 +86,7 @@ Para uso em produção, pode ser interessante avaliar:
 Modelos mais leves (melhor latência)
 Abordagens híbridas (regra + IA)
 Redução de contexto enviado ao modelo
-📊 Conclusão Geral
+ Conclusão Geral
 
 O agente demonstrou ser funcional e confiável para recomendação de PCs, com boa aderência às regras e aos perfis definidos.
 
