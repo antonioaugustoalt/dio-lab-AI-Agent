@@ -8,7 +8,8 @@ Esta pasta é destinada a recursos visuais do seu projeto:
 - Imagens para o README
 
 
-<img width="2509" height="1342" alt="image" src="https://github.com/user-attachments/assets/a0e45138-f74e-4b71-b54b-0932f76f177d" />
+<img width="872" height="1131" alt="image" src="https://github.com/user-attachments/assets/e06ec646-d703-4243-b9ae-674990d24f37" />
+
 
 
 ----------------------
