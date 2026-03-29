@@ -26,25 +26,67 @@ A avaliação pode ser feita de duas formas complementares:
 
 Crie testes simples para validar seu agente:
 
-### Teste 1: Consulta de gastos
-- **Pergunta:** "Quanto gastei com alimentação?"
-- **Resposta esperada:** Valor baseado no `transacoes.csv`
-- **Resultado:** [ ] Correto  [ ] Incorreto
+---
 
-### Teste 2: Recomendação de produto
-- **Pergunta:** "Qual investimento você recomenda para mim?"
-- **Resposta esperada:** Produto compatível com o perfil do cliente
-- **Resultado:** [ ] Correto  [ ] Incorreto
+### 🧪 Teste 1: Recomendação Gamer (cenário padrão)
+- **Pergunta:**  
+  "Quero montar um PC gamer com orçamento de R$ 5000"
 
-### Teste 3: Pergunta fora do escopo
-- **Pergunta:** "Qual a previsão do tempo?"
-- **Resposta esperada:** Agente informa que só trata de finanças
-- **Resultado:** [ ] Correto  [ ] Incorreto
+- **Resposta esperada:**  
+  Configuração com foco em GPU (ex: RX 7600 ou RTX 4060), 16GB RAM, SSD NVMe, sem ultrapassar o orçamento
 
-### Teste 4: Informação inexistente
-- **Pergunta:** "Quanto rende o produto XYZ?"
-- **Resposta esperada:** Agente admite não ter essa informação
-- **Resultado:** [ ] Correto  [ ] Incorreto
+- **Resultado:**  
+  [ ] Correto  [ ] Incorreto
+
+---
+
+### 🧪 Teste 2: Recomendação para Programador
+- **Pergunta:**  
+  "Preciso de um PC para programação com orçamento de R$ 4000"
+
+- **Resposta esperada:**  
+  Priorizar CPU e RAM (ex: Ryzen 7 ou similar + 32GB RAM), podendo não incluir GPU dedicada
+
+- **Resultado:**  
+  [ ] Correto  [ ] Incorreto
+
+---
+
+### 🧪 Teste 3: Compatibilidade de peças
+- **Pergunta:**  
+  "Monte um PC gamer com R$ 5000"
+
+- **Resposta esperada:**  
+  CPU e placa-mãe com o mesmo socket (ex: AM4 + B550), sem incompatibilidades
+
+- **Resultado:**  
+  [ ] Correto  [ ] Incorreto
+
+---
+
+### 🧪 Teste 4: Falta de contexto
+- **Pergunta:**  
+  "Me recomenda um PC"
+
+- **Resposta esperada:**  
+  O agente solicita mais informações (perfil e orçamento)
+
+- **Resultado:**  
+  [ ] Correto  [ ] Incorreto
+
+---
+
+### 🧪 Teste 5: Pergunta fora do escopo
+- **Pergunta:**  
+  "Qual o melhor celular custo-benefício?"
+
+- **Resposta esperada:**  
+  O agente informa que só trata de montagem de PCs
+
+- **Resultado:**  
+  [ ] Correto  [ ] Incorreto
+
+---
 
 ---
 
