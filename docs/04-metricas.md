@@ -150,7 +150,7 @@ No entanto, **a performance ainda é um ponto crítico**, sendo necessário otim
 
 ---
 
-
+##(FUTURAMENTE)
 ## Métricas Avançadas (Opcional)
 
 Para quem quer explorar mais, algumas métricas técnicas de observabilidade também podem fazer parte da sua solução, como:
