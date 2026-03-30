@@ -1,39 +1,99 @@
-# Pitch (3 minutos)
+🎤 PITCH – PC Builder Expert (3 minutos)
+1. O Problema (30s)
 
-> [!TIP]
-> Você pode usar alguns slides pra apoiar no seu Pitch e mostrar sua solução na prática.
- 
-## Roteiro Sugerido
+Hoje, montar um computador é uma tarefa complexa e confusa para a maioria das pessoas.
 
-### 1. O Problema (30 seg)
-> Qual dor do cliente você resolve?
+O usuário precisa:
 
-[Sua descrição aqui]
+entender compatibilidade entre peças
+equilibrar desempenho e orçamento
+escolher entre centenas de opções
 
-### 2. A Solução (1 min)
-> Como seu agente resolve esse problema?
+E mesmo assim, é comum:
 
-[Sua descrição aqui]
+gastar mal o dinheiro
+montar PCs com gargalo
+ou comprar configurações inadequadas para seu uso
 
-### 3. Demonstração (1 min)
-> Mostre o agente funcionando (pode ser gravação de tela)
+Ou seja, existe uma grande dificuldade em transformar uma necessidade simples — “quero um PC bom” — em uma decisão técnica correta.
 
-[Descreva o que será mostrado]
+2. A Solução (1 min)
 
-### 4. Diferencial e Impacto (30 seg)
-> Por que essa solução é inovadora e qual é o impacto dela na sociedade?
+Nós criamos o PC Builder Expert, um agente de IA que funciona como um especialista em montagem de computadores.
 
-[Sua descrição aqui]
+O diferencial é que ele:
+
+entende a necessidade do usuário a partir de uma pergunta simples
+identifica automaticamente o perfil de uso (gamer, programador, IA, etc.)
+analisa o orçamento
+e gera uma configuração completa, peça por peça
+
+Tudo isso baseado em:
+
+regras técnicas reais
+compatibilidade entre hardware
+e uma base de dados estruturada
+
+Além disso, o sistema utiliza um modelo inteligente de busca (RAG), que seleciona apenas os componentes mais relevantes, tornando a recomendação mais rápida, precisa e escalável.
+
+Na prática, o usuário não precisa entender nada de hardware — o agente faz todo o trabalho.
+
+3. Demonstração (1 min)
+
+Aqui, podemos ver o sistema funcionando.
+
+O usuário faz uma pergunta simples, por exemplo:
+
+“Quero um PC gamer até 5 mil reais”
+
+O agente:
+
+interpreta automaticamente o objetivo e o orçamento
+identifica o perfil como gamer
+seleciona os melhores componentes disponíveis
+e retorna uma configuração completa
+
+Incluindo:
+
+CPU
+GPU
+memória
+armazenamento
+fonte
+e gabinete
+
+Além disso, ele explica o motivo de cada escolha, garantindo transparência e confiança na recomendação.
+
+Tudo isso em poucos segundos, sem necessidade de conhecimento técnico por parte do usuário.
+
+4. Diferencial e Impacto (30s)
+
+O grande diferencial da solução é combinar:
+
+inteligência artificial
+regras técnicas reais
+e dados estruturados
+
+Criando um sistema que não apenas responde, mas toma decisões técnicas corretas.
+
+O impacto disso é direto:
+
+democratiza o acesso à tecnologia
+evita desperdício de dinheiro
+melhora a qualidade das compras
+e pode ser aplicado em e-commerces, suporte técnico ou consultoria automatizada
+
+Ou seja, transformamos um processo complexo em uma experiência simples, rápida e acessível para qualquer pessoa.
 
 ---
 
 ## Checklist do Pitch
 
-- [ ] Duração máxima de 3 minutos
-- [ ] Problema claramente definido
-- [ ] Solução demonstrada na prática
-- [ ] Diferencial explicado
-- [ ] Áudio e vídeo com boa qualidade
+- [X] Duração máxima de 3 minutos
+- [X] Problema claramente definido
+- [X] Solução demonstrada na prática
+- [X] Diferencial explicado
+- [X] Áudio e vídeo com boa qualidade
 
 ---
 
