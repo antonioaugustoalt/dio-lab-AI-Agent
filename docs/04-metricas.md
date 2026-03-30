@@ -150,8 +150,6 @@ No entanto, **a performance ainda é um ponto crítico**, sendo necessário otim
 
 ---
 
-> [!TIP]
-> Para melhorar significativamente a performance, considere pré-processar os dados e deixar a IA responsável apenas pela decisão final e explicação, reduzindo o custo e o tempo de resposta.
 
 ## Métricas Avançadas (Opcional)
 
