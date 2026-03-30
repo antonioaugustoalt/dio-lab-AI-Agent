@@ -242,8 +242,8 @@ O projeto demonstra:
 ---
 
 ## 👨‍💻 Autor
-
-Projeto desenvolvido como solução completa de agente inteligente com foco em aplicação real.
+-Antonio Augusto-
+Projeto desenvolvido como solução completa de agente inteligente.
 
 ---
 
