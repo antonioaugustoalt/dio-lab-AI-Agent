@@ -89,6 +89,4 @@ O grande diferencial é combinar:
 
 ## Link do Vídeo
 
-> Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
-
-[[Link do vídeo]](https://youtu.be/NAIqc5TJipQ)
+> [[Link do vídeo]](https://youtu.be/NAIqc5TJipQ)
